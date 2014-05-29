@@ -13,10 +13,10 @@
     },
     "autoload": {
         "classmap": [
-            "src/Phantomnet/Ldap/Bridge/Exceptions.php",
-            "src/Phantomnet/Ldap/Connections/Exceptions.php",
-            "src/Phantomnet/Ldap/Targets/Exceptions.php",
-            "src/Phantomnet/Ldap/Users/Exceptions.php",
+            "src/PhantomNet/Ldap/Bridge/Exceptions.php",
+            "src/PhantomNet/Ldap/Connections/Exceptions.php",
+            "src/PhantomNet/Ldap/Targets/Exceptions.php",
+            "src/PhantomNet/Ldap/Users/Exceptions.php",
 
             "src/migrations"
         ],

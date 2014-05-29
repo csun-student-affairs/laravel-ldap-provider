@@ -36,7 +36,7 @@ return array(
 		 * Configuration option specifying which model we should use 
 		 * by default. This will be loaded automatically at boot time.
 		 */
-		'model' => 'Phantomnet\Ldap\Targets\Eloquent\Target',
+		'model' => 'PhantomNet\Ldap\Targets\Eloquent\Target',
 	),
 
 	/*
@@ -49,7 +49,7 @@ return array(
 		 * Configuration option specifying which model we should use 
 		 * by default. This will be loaded automatically at boot time.
 		 */
-		'model' => 'Phantomnet\Ldap\Users\Eloquent\User',
+		'model' => 'PhantomNet\Ldap\Users\Eloquent\User',
 
 		/*
 		 * Configuration option specifying which key we should use 
